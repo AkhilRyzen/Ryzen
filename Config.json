@@ -1,1 +1,15 @@
-
+{
+  "enabled": true,
+  "version": "1.5",
+  "lib_url": "https://github.com/AkhilRyzen/VENUS/raw/refs/heads/main/libbgmi.so",
+  "toast": "Anosdklocthook Successfully Loaded",
+  
+  "maintenance": false,
+  "maintenance_msg": "Server is under maintenance.",
+  
+  "min_version": "1.0",
+  "update_url": "https://t.me/Akhil_devloper",
+  
+  "announcement": "Join Telegram for premium mods and updates!",
+  "telegram_url": "https://t.me/Akhil_devloper"
+}
