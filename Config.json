@@ -1,9 +1,9 @@
 {
-  "enabled": false,
-  "version": "1.11",
+  "enabled": true,
+  "version": "1.12",
   "lib_url": "https://github.com/AkhilRyzen/ETICALMOD/raw/refs/heads/main/libbgmi.so",
   "toast": "Anosdklocthook Successfully Loaded",
   
-  "maintenance": true,
+  "maintenance": false,
   "maintenance_msg": "Server is under maintenance Wait For Update."
 }
