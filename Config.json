@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "version": "1.7",
+  "version": "1.11",
   "lib_url": "https://github.com/AkhilRyzen/ETICALMOD/raw/refs/heads/main/libbgmi.so",
   "toast": "Anosdklocthook Successfully Loaded",
   
