@@ -1,15 +1,9 @@
 {
   "enabled": false,
-  "version": "1.8",
-  "lib_url": "https://github.com/AkhilRyzen/VENUS/raw/refs/heads/main/libbgmi.so",
+  "version": "1.7",
+  "lib_url": "https://github.com/AkhilRyzen/ETICALMOD/raw/refs/heads/main/libbgmi.so",
   "toast": "Anosdklocthook Successfully Loaded",
   
   "maintenance": true,
-  "maintenance_msg": "Server is under maintenance Wait For Update.",
-  
-  "min_version": "1.8",
-  "update_url": "https://t.me/Akhil_devloper",
-  
-  "announcement": "Join Telegram for premium mods and updates!",
-  "telegram_url": "https://t.me/Akhil_devloper"
+  "maintenance_msg": "Server is under maintenance Wait For Update."
 }
