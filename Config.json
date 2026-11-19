@@ -2,7 +2,7 @@
   "enabled": true,
   "version": "2.0",
   "lib_url": "https://github.com/AkhilRyzen/ETICALMOD/raw/refs/heads/main/libbgmi.so",
-  "toast": "RYZEN MOD LOADED",
+  "toast": "4.7.0",
   "maintenance": false,
   "maintenance_msg": "Server is under maintenance."
 }
